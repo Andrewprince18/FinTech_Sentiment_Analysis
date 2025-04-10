@@ -92,7 +92,7 @@ $$
 
 <div align="center">
 
-<img src="Sentiment_Analysis/output.png" width="500"/>
+<img src="sentiment_analysis/output.png" width="500"/>
 
 </div>
 該視覺化圖有助於：
