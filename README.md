@@ -90,6 +90,11 @@ $$
 
 ###### 📈 視覺化結果
 
+<div align="center">
+
+![Circumplex Model Visualization](Sentiment_Analysis/output.png)
+
+</div>
 該視覺化圖有助於：
 
 - 理解發言者傳遞之潛在情緒類型  
