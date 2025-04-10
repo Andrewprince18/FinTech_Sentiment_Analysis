@@ -92,7 +92,7 @@ $$
 
 <div align="center">
 
-![Circumplex Model Visualization](Sentiment_Analysis/output.png)
+<img src="Sentiment_Analysis/output.png" width="500"/>
 
 </div>
 該視覺化圖有助於：
