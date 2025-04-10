@@ -1,4 +1,4 @@
-# 📁 FinTech_Sentiment_Analysis Project
+# 📁 FinTech Analysis Project
 
 本專案旨在探索財經語料中的**情緒分析**與**語音特徵擷取**，並初步建構語音情緒分類的資料前處理流程。
 
@@ -20,8 +20,8 @@
 #### 🎧 音訊檔案
 
 - `Apple_Q3_2024EarningsCall.mp3`：完整財報電話會議音檔  
-- `Apple_Q3_2024EarningsCall_CEO_1.wav`：CEO 講話片段  
-- `Apple_Q3_2024EarningsCall_CFO_1.wav`：CFO 講話片段  
+- `Apple_Q3_2024EarningsCall_CEO_1.wav`：CEO 片段  
+- `Apple_Q3_2024EarningsCall_CFO_1.wav`：CFO 片段  
 
 ---
 
@@ -100,15 +100,5 @@ $$
 - 理解發言者傳遞之潛在情緒類型  
 - 比較 CEO 與 CFO 在語音表達上的差異  
 - 後續延伸應用至多段語音、不同公司的語音比較  
-
----
-
-## 🔮 未來展望
-
-本專案未來將進一步：
-
-- 結合語者辨識與情緒偵測技術  
-- 探索聲學特徵與財報文字內容的聯動關係  
-- 引入機器學習模型進行情緒分類與情感預測  
 
 
